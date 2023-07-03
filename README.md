@@ -1,3 +1,15 @@
+<p>This is my first time trying to write a readme file and also it is an old project so i might forget some instrcutions to do</p>
+<p>this is a small project and not finished for a e-commerce site to publish services or ask for a service</p>
+<p>This a project is using Laravel for BackEnd and ReactJS for frontEnd and also i worked with MySQL using xampp in localhost</p>
+<p>First thing to know is you will need nodejs and composer installed in your machine</p>
+<p>Then go to project directory and then type command : composer install</p>
+<p>then type : php artisan storage:link</p>
+<p>then you can run it with : php artisan serve</p>
+<p>then go to so9na file and type : npm install install</p>
+<p>and finally and you can run it : npm run dev</p>
+<p>run apche and mysql on xampp and the project should be working</p>
+<p>for the rest of readme, GitHub generated it</p>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
